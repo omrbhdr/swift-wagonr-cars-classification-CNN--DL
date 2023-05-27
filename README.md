@@ -1,4 +1,24 @@
 # swift-wagonr-cars-classification-CNN--DL
+
+.................libs...............................
+
+              import os
+              import numpy as np
+              import matplotlib.pyplot as plt
+              from matplotlib.pyplot import imshow
+              import  pandas as pd
+              import cv2
+              from PIL import Image
+              from tensorflow import keras
+              from keras import layers as tfl
+              from keras import layers, models, optimizers
+              from keras.preprocessing.image import ImageDataGenerator
+              from tensorflow.keras import Sequential
+              from tensorflow.keras.layers import Conv2D,MaxPool2D,Dropout,Flatten,Dense,BatchNormalization
+              
+........................................................
+
+
 Difference between Swift &amp; Wagonr Models detect with ML
 About Dataset
 Context
